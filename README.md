@@ -323,4 +323,5 @@ Pastikan migration dengan trigger sudah di-deploy. Verifikasi via `psql`:
 
 Internal — Pemerintah Kabupaten Pacitan. Tidak untuk distribusi publik.
 #   t e s t u k p b j  
+ #   p u r e x b t  
  
